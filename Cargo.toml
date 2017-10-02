@@ -1,0 +1,7 @@
+[package]
+name = "repro-rustfuturetypeinference"
+version = "0.1.0"
+authors = ["Daniel Wagner-Hall <dwagnerhall@twitter.com>"]
+
+[dependencies]
+futures = "0.1.16"
